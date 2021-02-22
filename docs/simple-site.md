@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 You’ll find this page in your docs directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 To add new file, simply add a file to the directory.

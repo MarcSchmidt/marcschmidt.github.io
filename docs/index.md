@@ -50,11 +50,11 @@ else:
 - A relative link in the mainfolder -> [content](./simple-site.md)
 - A relative link in a subfolder -> [content2](./pages/examplesite.md)
 
-## Other
+## Kommentarbereich
 <script src="https://utteranc.es/client.js"
         repo="MarcSchmidt/marcschmidt.github.io"
         issue-number="1"
-        theme="github-dark"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
