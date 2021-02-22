@@ -51,5 +51,10 @@ else:
 - A relative link in a subfolder -> [content2](./pages/examplesite.md)
 
 ## Other
-<script src="/js/jquery.min.js"></script>
-{% include comments.html element=".post-content" github_account="jhvanderschee/jekyllcodex" require_cookie_consent="true" %}
+<script src="https://utteranc.es/client.js"
+        repo="MarcSchmidt/marcschmidt.github.io"
+        issue-number="1"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
