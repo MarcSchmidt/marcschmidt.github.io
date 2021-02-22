@@ -1,6 +1,7 @@
 ---
 # This top area is to give jekyll informations about the page.
 layout: default
+comment_issue_id: 1
 ---
 # The first Headline of the page
 This site is a simple example for a markdown page.  
@@ -48,3 +49,7 @@ else:
 - A permantent link -> [about](/about)
 - A relative link in the mainfolder -> [content](./simple-site.md)
 - A relative link in a subfolder -> [content2](./pages/examplesite.md)
+
+## Other
+<script src="/js/jquery.min.js"></script>
+{% include comments.html element=".post-content" github_account="jhvanderschee/jekyllcodex" require_cookie_consent="true" %}
