@@ -51,6 +51,7 @@ else:
 - A relative link in a subfolder -> [content2](./pages/examplesite.md)
 
 ## Kommentarbereich
+<script src="https://code.responsivevoice.org/responsivevoice.js?key=J1DA9PlI"></script>
 <script src="https://utteranc.es/client.js"
         repo="MarcSchmidt/marcschmidt.github.io"
         issue-number="1"
