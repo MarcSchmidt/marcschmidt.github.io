@@ -50,6 +50,13 @@ else:
 - A relative link in the mainfolder -> [content](./simple-site.md)
 - A relative link in a subfolder -> [content2](./pages/examplesite.md)
 
+
+## Test Voice
+<button onclick="responsiveVoice.speak('Dies ist ein Testinhalt','Deutsch Female');"
+type="button" value="Play">Vorlesen</button>
+
+## Anmerkungen
+Sprachausgabe bereitgestellt durch [ResponsiveVoice](https://responsivevoice.org/)
 ## Kommentarbereich
 <script src="https://code.responsivevoice.org/responsivevoice.js?key=J1DA9PlI"></script>
 <script src="https://utteranc.es/client.js"
