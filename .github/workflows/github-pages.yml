@@ -12,5 +12,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@v2
         with:
-          jekyll_src: docs
+          jekyll_src: ../docs
           token: ${{ secrets.JEKYLL_TOKEN }}
